@@ -258,7 +258,7 @@ The following table lists the policies that you can configure for the Windows Ti
 
 Below you'll find the default values for the **Global Configuration Settings** once enabled.
 
-|Group Policy setting|Default value|
+|Group Policy setting|Default value|Help|
 | --- | --- |
 |AnnounceFlags|10|
 |EventLogFlags|2|
